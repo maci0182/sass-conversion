@@ -1,0 +1,7 @@
+@mixin sizeofcolumn($width,$paddingbottom,$marginbottom,$float,$marginleft)
+    {
+        width:$width;
+        padding-bottom: $paddingbottom;
+        margin-bottom: $marginbottom;
+        float:$float;
+    }
